@@ -1,0 +1,9 @@
+# --- Core Framework ---
+# fastapi
+# uvicorn[standard]
+# pydantic
+
+# --- Logic & Processing ---
+# sympy
+
+# --- Add other dependencies below ---
